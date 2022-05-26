@@ -17,11 +17,8 @@
 
 Users should be able to:
 
-#### - 
+#### - Search for a user with their name or location
 
-#### - 
-
-#### - 
 
 ### Features
 [![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loom)
@@ -32,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Live User Filter GitHub Solution](https://github.com/MaryAngelique/live-user-filter)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
