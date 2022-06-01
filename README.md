@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Live User Filter GitHub Solution](https://github.com/MaryAngelique/live-user-filter)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Live User Filter Website](https://live-user-filter-one.vercel.app/)
 
 ## My process
 
